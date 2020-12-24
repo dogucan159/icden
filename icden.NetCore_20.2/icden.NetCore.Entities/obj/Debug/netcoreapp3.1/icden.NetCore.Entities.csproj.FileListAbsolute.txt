@@ -1,0 +1,9 @@
+F:\Futurecom\icden\icden.NetCore_20.2\icden.NetCore.Entities\bin\Debug\netcoreapp3.1\icden.NetCore.Entities.deps.json
+F:\Futurecom\icden\icden.NetCore_20.2\icden.NetCore.Entities\bin\Debug\netcoreapp3.1\icden.NetCore.Entities.dll
+F:\Futurecom\icden\icden.NetCore_20.2\icden.NetCore.Entities\bin\Debug\netcoreapp3.1\icden.NetCore.Entities.pdb
+F:\Futurecom\icden\icden.NetCore_20.2\icden.NetCore.Entities\obj\Debug\netcoreapp3.1\icden.NetCore.Entities.csprojAssemblyReference.cache
+F:\Futurecom\icden\icden.NetCore_20.2\icden.NetCore.Entities\obj\Debug\netcoreapp3.1\icden.NetCore.Entities.AssemblyInfoInputs.cache
+F:\Futurecom\icden\icden.NetCore_20.2\icden.NetCore.Entities\obj\Debug\netcoreapp3.1\icden.NetCore.Entities.AssemblyInfo.cs
+F:\Futurecom\icden\icden.NetCore_20.2\icden.NetCore.Entities\obj\Debug\netcoreapp3.1\icden.NetCore.Entities.csproj.CoreCompileInputs.cache
+F:\Futurecom\icden\icden.NetCore_20.2\icden.NetCore.Entities\obj\Debug\netcoreapp3.1\icden.NetCore.Entities.dll
+F:\Futurecom\icden\icden.NetCore_20.2\icden.NetCore.Entities\obj\Debug\netcoreapp3.1\icden.NetCore.Entities.pdb
